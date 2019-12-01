@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exintents",
+            "request": "launch",
+            "mainClass": "Exintents"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exempleex8for",
+            "request": "launch",
+            "mainClass": "Exempleex8for"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exintentsbolean",
+            "request": "launch",
+            "mainClass": "Exintentsbolean"
+        }
+    ]
+}

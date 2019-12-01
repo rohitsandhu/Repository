@@ -2,6 +2,283 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Joc3",
+            "request": "launch",
+            "mainClass": "Joc3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Activitat4DA",
+            "request": "launch",
+            "mainClass": "Activitat4DA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Joc2",
+            "request": "launch",
+            "mainClass": "Joc2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Motsencadenats",
+            "request": "launch",
+            "mainClass": "Motsencadenats"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Buscamines",
+            "request": "launch",
+            "mainClass": "Buscamines"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bingo",
+            "request": "launch",
+            "mainClass": "Bingo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExS7",
+            "request": "launch",
+            "mainClass": "ExS7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExArrayBi",
+            "request": "launch",
+            "mainClass": "ExArrayBi"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExS5AmbArrays",
+            "request": "launch",
+            "mainClass": "ExS5AmbArrays"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExS5SenseArrays",
+            "request": "launch",
+            "mainClass": "ExS5SenseArrays"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExS6",
+            "request": "launch",
+            "mainClass": "ExS6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExS5",
+            "request": "launch",
+            "mainClass": "ExS5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExS4",
+            "request": "launch",
+            "mainClass": "ExS4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExS3",
+            "request": "launch",
+            "mainClass": "ExS3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExS2",
+            "request": "launch",
+            "mainClass": "ExS2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExS1",
+            "request": "launch",
+            "mainClass": "ExS1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exintentsbolean",
+            "request": "launch",
+            "mainClass": "Exintentsbolean"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exintentsbolean",
+            "request": "launch",
+            "mainClass": "Exintentsbolean",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exintentsboolean",
+            "request": "launch",
+            "mainClass": "Exintentsboolean"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exintents",
+            "request": "launch",
+            "mainClass": "Exintents"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExWhile",
+            "request": "launch",
+            "mainClass": "ExWhile"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exfor",
+            "request": "launch",
+            "mainClass": "Exfor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayBi",
+            "request": "launch",
+            "mainClass": "ArrayBi"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici88",
+            "request": "launch",
+            "mainClass": "Exercici88"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici77",
+            "request": "launch",
+            "mainClass": "Exercici77"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici66",
+            "request": "launch",
+            "mainClass": "Exercici66"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prova111",
+            "request": "launch",
+            "mainClass": "Prova111"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici55",
+            "request": "launch",
+            "mainClass": "Exercici55"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici44",
+            "request": "launch",
+            "mainClass": "Exercici44"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici33",
+            "request": "launch",
+            "mainClass": "Exercici33"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici11",
+            "request": "launch",
+            "mainClass": "Exercici11"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici22",
+            "request": "launch",
+            "mainClass": "Exercici22"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exempleex8for",
+            "request": "launch",
+            "mainClass": "Exempleex8for"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici8",
+            "request": "launch",
+            "mainClass": "Exercici8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici6",
+            "request": "launch",
+            "mainClass": "Exercici6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici7",
+            "request": "launch",
+            "mainClass": "Exercici7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Forr",
+            "request": "launch",
+            "mainClass": "Forr"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Whilee",
+            "request": "launch",
+            "mainClass": "Whilee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - While",
+            "request": "launch",
+            "mainClass": "While"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici5",
+            "request": "launch",
+            "mainClass": "Exercici5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arrays",
+            "request": "launch",
+            "mainClass": "arrays"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici4",
+            "request": "launch",
+            "mainClass": "Exercici4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici3",
+            "request": "launch",
+            "mainClass": "Exercici3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici2",
+            "request": "launch",
+            "mainClass": "Exercici2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercici1",
+            "request": "launch",
+            "mainClass": "Exercici1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Projectexorra",
             "request": "launch",
             "mainClass": "Projectexorra"
